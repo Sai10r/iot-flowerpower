@@ -26,4 +26,4 @@ git clone https://github.com/TrebingHimstedt/iot-flowerpower
 
 cd iot-flowerpower
 
-node fp2dom.js a0143d0877f2 <-- bluetooth mac address without : in lower case format
+node FP2DOM.js a0143d0877f2 <-- bluetooth mac address without : in lower case format
